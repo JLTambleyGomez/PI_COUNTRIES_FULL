@@ -1,4 +1,6 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
+
+
 PI_COUNTRIES
 Countries. !Bienvenido¡ Encontramos aqui una plataforma turística donde puedes encontrar información sobre diferentes países y las actividades que puedes realizar en ellos. ¡Embárcate en un viaje virtual por el mundo y descubre nuevos destinos emocionantes!
 
