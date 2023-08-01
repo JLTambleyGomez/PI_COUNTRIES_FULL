@@ -1,0 +1,11 @@
+
+.bar1 {
+  display: flex;
+  color: aliceblue;
+  padding: 20px;
+  font-size: 14px;
+  align-items: center;
+  justify-content:space-between;
+  width:140%;
+  background-color: rgba(0, 0, 0, 0.37);
+}

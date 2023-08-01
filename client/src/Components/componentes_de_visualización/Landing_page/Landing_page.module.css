@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 110vh;
+  color: rgb(12, 212, 212);
+  background-image: url("https://images.unsplash.com/photo-1529579134665-75dfc9c5ccef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80");
+  background-size:cover; 
+  width: 100%;
+}
+
+.title {
+  scale: 0.7;
+  font-size: 124px;
+  color: rgba(0, 0, 0, 0);
+  background-image: url("https://images.unsplash.com/photo-1580191947416-62d35a55e71d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80");
+  background-size:100%; 
+  background-position: 10%;
+  margin-bottom: 240px;
+  height: 100vh;
+  border-radius: 4%;
+  border: 22px solid #121;
+  box-shadow: 14px 12px rgba(6, 97, 97, 0.445);
+}
+.link {
+  text-decoration: none;
+  color: #23d8d8;
+  background-color: rgba(0, 0, 0, 0.377);
+  border-radius: 20px;
+  padding: 4px;
+  font-size: 68px;
+  border: 10px solid rgba(0, 0, 0, 0.377); ;
+  font-weight: bold;
+margin-bottom: 120px; 
+ animation:infinite shake-left-right 4.8s linear both} 
+  @keyframes shake-left-right{0%,100%{transform:rotate(0deg);transform-origin:50% 50%}10%{transform:rotate(8deg)}20%,40%,60%{transform:rotate(-10deg)}30%,50%,70%{transform:rotate(10deg)}80%{transform:rotate(-8deg)}90%{transform:rotate(8deg)}}
+
+  .link:hover {
+      scale:1.1;
+  text-decoration: underline;
+}

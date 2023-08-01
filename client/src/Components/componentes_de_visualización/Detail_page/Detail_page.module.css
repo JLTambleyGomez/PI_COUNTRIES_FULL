@@ -1,0 +1,43 @@
+.container {
+  background-color: #0b5353c9;
+  padding: 20px;
+  margin: 40px;
+  border-radius: 8px;
+  color: aliceblue;
+  border: 2px solid #121212;
+  animation:scale-up-top 0.4s; } @keyframes scale-up-top{0%{transform:scale(.5);transform-origin:center top}100%{transform:scale(1);transform-origin:center top}}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.flag {
+  border: 4px solid rgba(20, 17, 34, 0.705);
+  width: 200px;
+  height: auto;
+}
+
+.details {
+  font-size: 16px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.activitiesHeading {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.activity {
+  margin-left: 10px;
+}

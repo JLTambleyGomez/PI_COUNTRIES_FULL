@@ -1,0 +1,16 @@
+
+.bar1 {
+  display: flex;
+  font-size: 14px;
+  padding: 20px;
+  flex-direction:row;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.404);
+
+}
+
+
+.error{
+  margin-left: 14px;
+  color: aliceblue;
+}
